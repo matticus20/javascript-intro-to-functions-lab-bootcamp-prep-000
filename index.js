@@ -10,4 +10,5 @@ function logShout(string) {
   console.log(`${string}`)
 }
 
-logShout('hello'.toUpperCase())
+logShout('hello')
+string.toUpperCase()
