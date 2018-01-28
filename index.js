@@ -16,3 +16,4 @@ string.toUpperCase()
 function logWhisper(string) {
   console.log(`${string}`)
 }
+logWhisper('hello')
